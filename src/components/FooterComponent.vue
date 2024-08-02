@@ -5,7 +5,7 @@
         <div class="col-md-4">
           <h5>Sobre nosotros</h5>
           <p>Conteo de Personas y Vehículos,
-            Control de Ocupación Máxima,
+            Control de Ocupaciózxczxczxczcxzn Máxima,
             Gestión de Visitantes y
             Estadísticas del Flujo.
           </p>
